@@ -1,0 +1,1 @@
+declare var otherLib: (selector: string) => any
